@@ -1,9 +1,9 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: USAFA
+-- Engineer: C3C Anders Enga
 -- 
 -- Create Date: 02/24/2025 08:22:28 AM
--- Design Name: 
+-- Design Name: Hex Seven Segment Decoder
 -- Module Name: sevenseg_decoder - Behavioral
 -- Project Name: 
 -- Target Devices: 
